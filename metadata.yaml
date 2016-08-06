@@ -1,0 +1,37 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-03--13-Masterpieces-of-G__11692
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- GITenberg
+tableOfContents: Life of Schiller. By Calvin Thomas -- To the Ideal -- The Veiled
+  Image at Saïs -- The Ideal and The Actual Life -- Genius -- Votive Tablets (Selections)
+  -- The Maiden from Afar -- The Glove -- The Diver -- The Cranes of Ibycus -- Thee
+  Words of Belief -- The Words of Error -- The Lay of the Bell -- The German Art --
+  Commencement of the New Century -- Cassandra -- Rudolph of Hapsburg -- Introduction
+  to Wallenstein's Death. By William H. Carruth -- The Death of Wallenstein. -- Introduction
+  to William Tell. By William H. Carruth -- William Tell. -- Homage of the Arts. --
+  The Thirty Years' War--Last Campaigns of Gustavus Adolphus. -- On the Use of the
+  Chorus in Tragedy. -- Schiller's Correspondence with Goethe.
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 03\r\
+  \nMasterpieces of German Literature Translated into English. in Twenty Volumes"
+url: http://www.gutenberg.org/ebooks/11692
